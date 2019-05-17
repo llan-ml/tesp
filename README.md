@@ -4,7 +4,7 @@ This repository contains the TensorFlow implementation of our paper
 [Meta Reinforcement Learning with Task Embedding and Shared Policy](https://arxiv.org/abs/1905.06527) (IJCAI 2019).
 
 For detailed settings of the environments and experiments,
-please refer to the [supplementary material](supplement.pdf).
+please refer to the [supplementary material](materials/supplement.pdf).
 
 We also re-implement the following methods:
 
